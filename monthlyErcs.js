@@ -1,4 +1,3 @@
-var monthlyErcs =
   [
     {
       "44203": 12.16451613,
@@ -1957,4 +1956,3 @@ var monthlyErcs =
       "Month": "Dec"
     }
   ]
-export default monthlyErcs
